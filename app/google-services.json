@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759953272005",
+    "project_id": "bitcoi-2b432",
+    "storage_bucket": "bitcoi-2b432.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759953272005:android:a53383560af7d400c014ac",
+        "android_client_info": {
+          "package_name": "com.example.govt01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BQyOtgIb4GlDhDKs_Q_iEAiZQuDF-3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
